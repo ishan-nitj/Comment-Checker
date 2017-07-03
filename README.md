@@ -9,7 +9,7 @@ A tool for the problem setting team to identify whether some user is trying to s
 -------------
 The code is easy to identify if placed in a code snippet within triple backticks.
 But not all users place their code within code snippet, which makes the process a little harder.
-![  ](  )
+![]( https://github.com/ishan-nitj/Comment-Checker/blob/master/1.png?raw=true)
 
 #### <i class="icon-pencil"></i>A Probabilistic Model
 
