@@ -3,8 +3,6 @@ Comment Checker
 A tool for the problem setting team to identify whether some user is trying to share code in the discussion forum of an on going contest or discuss the solution.
 
 ----------
-
-
 #### <i class="icon-refresh"></i> Identifying the Code
 -------------
 The code is easy to identify if placed in a code snippet within triple backticks.
@@ -22,11 +20,17 @@ Consider the comment
 
 Although all three words in this comment are keywords in Python, this comment is not a code.So we cannot discretely specify whether a comment will be a  code.
 
+----------
+#### <i class="icon-refresh"></i> Running the Code
+-------------
+- Run python codeIdentifier.py and provide the comment in file testing
+- Run python helpIdentifier.py and provide the comment in file testing
 
-
-
-
-
+----------
+#### <i class="icon-refresh"></i> Dependencies
+-------------
+- sudo pip install nltk
+- python> nltk.download()
 
 
 
