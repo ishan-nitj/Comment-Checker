@@ -20,6 +20,8 @@ Consider the comment
 
 Although all three words in this comment are keywords in Python, this comment is not a code.So we cannot discretely specify whether a comment will be a  code.
 
+To detect the discussion all the stopwords are removed from the comment after tokenising it with the help of NLTK. And then each sentence is taken and compared to all the training data. If in a sentence of the comment more than 50% of the words match with any of the training data, then discussion is sent for moderator approval.
+
 ----------
 #### <i class="icon-refresh"></i> Running the Code
 -------------
