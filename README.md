@@ -23,8 +23,7 @@ Although all three words in this comment are keywords in Python, this comment is
 ----------
 #### <i class="icon-refresh"></i> Running the Code
 -------------
-- Run python codeIdentifier.py and provide the comment in file testing
-- Run python helpIdentifier.py and provide the comment in file testing
+- Run python main.py and provide the comment in file testing
 
 ----------
 #### <i class="icon-refresh"></i> Dependencies
